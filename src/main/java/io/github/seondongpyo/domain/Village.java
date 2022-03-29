@@ -29,13 +29,19 @@ public class Village {
 
 	private String facility;
 
-	private String address;
+	private String area;
+
+	private String photo;
+
+	private String roadNameAddress;
+
+	private String landLotAddress;
 
 	private String representative;
 
 	private String phoneNumber;
 
-	private LocalDate designatedDate;
+	private LocalDate approvedDate;
 
 	private String homepage;
 
@@ -45,7 +51,7 @@ public class Village {
 
 	private Double longitude;
 
-	private LocalDate approvedDate;
+	private LocalDate referenceDate;
 
 	private String institutionCode;
 

@@ -1,4 +1,4 @@
-package io.github.seondongpyo.domain;
+package io.github.seondongpyo.viliage.domain;
 
 import java.time.LocalDate;
 
